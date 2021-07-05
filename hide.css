@@ -1,3 +1,57 @@
+
+body{
+
+    background-color: #242424;
+    font-family: 'Baloo Da 2', cursive;
+}
+
 h1{
-    color:red;
+    color: white;
+    font-size: 50PX;
+}
+h2{
+    color: rgb(255, 115, 0);
+}
+p{
+    color: white;
+}
+.dev-ashikur{
+    color: rgb(255, 115, 0);
+    font-size: 55px;
+    font-style: italic;
+}
+
+.sec-1{
+    display:flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.sec-12{
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 20px;
+}
+
+.sec-12 img{
+    width: 95%;
+}
+
+.img-2{
+    border-radius: 1000px;
+    box-shadow: 0px 0px 30px  white;
+    
+}
+
+
+
+
+                /* section 2 */
+
+
+
+
+.img-3{
+   border-radius: 550px; 
+   box-shadow: 0px 0px 30px  white;
 }
